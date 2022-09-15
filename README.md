@@ -40,7 +40,7 @@ Difficulty balance: the difficulty setting only affects the player’s starting 
   
 GUI: my ultimate goal is to have this game’s logic sit at the core of a proper video game with animated graphics and sound effects, perhaps as an application for tablets given their ubiquity in schools and as toys for children.  
 
-Credits
+**Credits**
   
 ASCII lettering comes from http://patorjk.com/
 
