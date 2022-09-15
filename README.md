@@ -1,5 +1,5 @@
 # DIGIT DUNGEON
-#### Video Demo:  <URL HERE>
+#### Video Demo:  [<URL HERE>](https://youtu.be/DKmm-Vntznc)
 #### Description:
 **Overview**
 *DIGIT DUNGEON* is an educational text-based game which quizzes the user on arithmetic to advance through turn-based combat. The game is written in Python and played in terminal. 
